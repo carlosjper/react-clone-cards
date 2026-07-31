@@ -38,7 +38,7 @@ https://github.com/carlosjper/react-clone-cards
 
 ## 🌐 Aplicación en Vercel
 
-[https://react-clone-cards150.vercel.app](https://react-clone-cards150.vercel.app)
+[https://react-clone-cards-4ncb.vercel.app](https://react-clone-cards-4ncb.vercel.app)
 
 
 ## 🚀 Comando para levantar el servidor
