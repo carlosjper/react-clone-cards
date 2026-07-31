@@ -28,7 +28,7 @@ function Testimony(props) {
 		    {props.charge} en <span className="firmBold">{props.firm}</span>
         </p>
         <p className='testimonyText'>
-			"{props.testimony}"
+{props.testimony}
 		</p>
       </div>
     </div>
