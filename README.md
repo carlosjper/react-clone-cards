@@ -31,12 +31,14 @@ Durante el desarrollo del proyecto se han trabajado los siguientes conceptos:
 
 ## 🌐 Despliegue
 
-**Enlace al repositorio de GitHub:**
+**🔗 Repositorio de GitHub**
+
+https://github.com/carlosjper/react-clone-cards
 
 
-**Enlace a Vercel:**
 
+## 🚀 Comando para levantar el servidor
 
-## Comando para levantar el servidor:
-`npm run dev`
-# react-clone-cards
+```bash
+npm run dev
+```
