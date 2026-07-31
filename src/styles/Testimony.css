@@ -44,3 +44,16 @@
 .firmBold {
     font-weight: bold;
 }
+
+
+.nameTestimony, 
+.chargeTestimony, 
+.testimonyText {
+  color: #1a1a1a !important;
+}
+
+
+.nameBold, 
+.firmBold {
+  color: #000000 !important;
+}
