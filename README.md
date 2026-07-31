@@ -32,13 +32,10 @@ Durante el desarrollo del proyecto se han trabajado los siguientes conceptos:
 ## 🌐 Despliegue
 
 **🔗 Repositorio de GitHub**
-
 https://github.com/carlosjper/react-clone-cards
 
-
-## 🌐 Aplicación en Vercel
-
-[https://react-clone-cards-4ncb.vercel.app](https://react-clone-cards-4ncb.vercel.app)
+**🚀 Aplicación en Vercel:**  
+[Visitar sitio web](https://react-clone-cards-4ncb.vercel.app)
 
 
 ## 🚀 Comando para levantar el servidor
