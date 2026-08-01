@@ -57,3 +57,13 @@
 .firmBold {
   color: #000000 !important;
 }
+
+h1 {
+    text-align: center;
+    color: black;
+}
+
+body {
+
+    background-color: greenyellow;
+}
